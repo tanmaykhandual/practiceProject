@@ -8,7 +8,7 @@ public class RegxDemo2 {
 	public static void main(String[] args) {
 		
 		String regex="[987]{3}[0-9]{7}";
-		String input="6784527814";
+		String input="9871234565";
 		
 		Pattern pattern= Pattern.compile(regex);
 		
