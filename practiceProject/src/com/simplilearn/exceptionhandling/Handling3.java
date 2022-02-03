@@ -20,6 +20,3 @@ public class Handling3 {
 		}
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Pri
